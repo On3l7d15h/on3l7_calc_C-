@@ -1,0 +1,11 @@
+C:\Users\onell\source\repos\SolutionAppDCUCalculator\WindowsFormsAppDCUCalculator\bin\Debug\WindowsFormsAppDCUCalculator.exe.config
+C:\Users\onell\source\repos\SolutionAppDCUCalculator\WindowsFormsAppDCUCalculator\bin\Debug\WindowsFormsAppDCUCalculator.exe
+C:\Users\onell\source\repos\SolutionAppDCUCalculator\WindowsFormsAppDCUCalculator\bin\Debug\WindowsFormsAppDCUCalculator.pdb
+C:\Users\onell\source\repos\SolutionAppDCUCalculator\WindowsFormsAppDCUCalculator\obj\Debug\WindowsFormsAppDCUCalculator.csproj.AssemblyReference.cache
+C:\Users\onell\source\repos\SolutionAppDCUCalculator\WindowsFormsAppDCUCalculator\obj\Debug\WindowsFormsAppDCUCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\onell\source\repos\SolutionAppDCUCalculator\WindowsFormsAppDCUCalculator\obj\Debug\WindowsFormsAppDCUCalculator.frm_calculator.resources
+C:\Users\onell\source\repos\SolutionAppDCUCalculator\WindowsFormsAppDCUCalculator\obj\Debug\WindowsFormsAppDCUCalculator.Properties.Resources.resources
+C:\Users\onell\source\repos\SolutionAppDCUCalculator\WindowsFormsAppDCUCalculator\obj\Debug\WindowsFormsAppDCUCalculator.csproj.GenerateResource.cache
+C:\Users\onell\source\repos\SolutionAppDCUCalculator\WindowsFormsAppDCUCalculator\obj\Debug\WindowsFormsAppDCUCalculator.csproj.CoreCompileInputs.cache
+C:\Users\onell\source\repos\SolutionAppDCUCalculator\WindowsFormsAppDCUCalculator\obj\Debug\WindowsFormsAppDCUCalculator.exe
+C:\Users\onell\source\repos\SolutionAppDCUCalculator\WindowsFormsAppDCUCalculator\obj\Debug\WindowsFormsAppDCUCalculator.pdb
