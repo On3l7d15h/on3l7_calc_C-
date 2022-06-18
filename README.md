@@ -4,7 +4,7 @@
 
 Hey guys! What's up? this is my project of a simple calculator with C#, enjoy, 
 
-<img title="" src="./" alt="" width="257" data-align="center">
+<img title="" src="./preview/preview.png" alt="" width="257" data-align="center">
 
 ###### Functionality:
 
